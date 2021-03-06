@@ -1,0 +1,20 @@
+Towards data science Article:
+
+- Analyzing my weight loss with machine learning
+https://towardsdatascience.com/analyzing-my-weight-loss-journey-with-machine-learning-b74aa2e170f2
+- https://github.com/seismatica/logweight/tree/master/data
+
+-Do You Even Lift? Predicting Weight Loss with Workouts and Nutrition
+https://towardsdatascience.com/do-you-even-lift-predicting-weight-change-with-workouts-and-nutrition-a6b8b4cf6f23
+
+-What can machine learning tell you about your weight?
+https://benjamintormey.com/posts/what-can-machine-learning-tell-you-about-your-weight/
+
+-Application of Machine Learning to Predict Dietary Lapses During Weight Loss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6134608/
+
+-Using data mining to predict success in a weight loss trial
+https://www.researchgate.net/publication/313429253_Using_data_mining_to_predict_success_in_a_weight_loss_trial
+
+-A Machine Learning Approach to Short-Term Body Weight Prediction in a Dietary Intervention Program
+https://link.springer.com/chapter/10.1007/978-3-030-50423-6_33
